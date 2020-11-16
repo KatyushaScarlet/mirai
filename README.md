@@ -60,6 +60,11 @@ mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效�
 ### **mirai 的形象图及项目图标都拥有著作权保护。**
 **在未经过允许的情况下，任何人都不可以使用形象图和图标，或本文初的有关 mirai 名称来历的介绍原文，用于商业用途或是放置在项目首页，或其他未许可的行为。**
 
+### 衍生软件需声明引用
+
+- 若引用 mirai 发布的软件包而不修改 mirai，则衍生项目需在描述的任意部位提及使用 mirai。
+- 若修改 mirai 源代码再发布，或参考 mirai 内部实现发布另一个项目，则衍生项目必须在**文章首部**或 'mirai' 相关内容**首次出现**的位置**明确声明**来源于本仓库 (`https://github.com/mamoe/mirai`)。不得扭曲或隐藏免费且开源的事实。
+
 ## 协议支持
 
 <details>
@@ -105,12 +110,15 @@ mirai 是一个在全平台下运行，提供 QQ Android 协议支持的高效�
 ## 开始
 
 ### 文档
-- **快速上手**：[quickstart](docs/guide_quick_start.md)
-- **开发文档**：[docs/mirai.md](docs/mirai.md)
-- **常见问题**: [docs/FAQ.md](docs/FAQ.md)
-- **更新日志**: [CHANGELOG](https://github.com/mamoe/mirai/blob/master/CHANGELOG.md) 或 [release](https://github.com/mamoe/mirai/releases)
-- **开发计划**: [milestones](https://github.com/mamoe/mirai/milestones)
-- **贡献**: [CONTRIBUTING](CONTRIBUTING.md)
+
+**对于一般使用者, 更建议使用 [Mirai Console](https://github.com/mamoe/mirai-console)。拥有更完善的文档。**
+
+- 快速上手：[quickstart](docs/guide_quick_start.md)
+- 开发文档：[docs/mirai.md](docs/mirai.md)
+- 常见问题: [docs/FAQ.md](docs/FAQ.md)
+- 更新日志: [CHANGELOG](https://github.com/mamoe/mirai/blob/master/CHANGELOG.md) 或 [release](https://github.com/mamoe/mirai/releases)
+- 开发计划: [milestones](https://github.com/mamoe/mirai/milestones)
+- 贡献: [CONTRIBUTING](CONTRIBUTING.md)
 
 ### 使用者
 
