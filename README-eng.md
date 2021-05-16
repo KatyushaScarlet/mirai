@@ -8,9 +8,7 @@ Mirai is designed to handle all sorts of messaging works that can be automatical
 > Tencent QQ: A modern messaging software used by all Chinese netizens.
 
 ## Start
-**Development document**： [docs/mirai.md](docs/mirai.md)
-
-[CHANGELOG](https://github.com/mamoe/mirai/blob/master/CHANGELOG.md)
+**Development document**： [docs](docs)
 
 ### Use as a framework
 
